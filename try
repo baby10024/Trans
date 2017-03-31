@@ -1,0 +1,7 @@
+    /*
+    Receives an integer n and returns the smallest integer that is greater than
+    n and in which the sum of the digits is divisible by 11.
+    For example, nextCRC(100) = 119 because 119 is the first integer greater than
+    100 and the sum of its digits 1+1+9 = 11 is divisible by 11.
+    Other examples: nextCRC(-100) = -92, nextCRC(20) = 29
+    */
